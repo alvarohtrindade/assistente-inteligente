@@ -239,7 +239,7 @@ Aqui está o prontuário do ISP:
 
 Como posso ajudar você? Algumas sugestões:
 * Gostaria de saber mais detalhes sobre algum produto específico? 📦
-* Quer informações sobre o método de contratação de um produto? 💼
+* Gostaria de receber estratégias de vendas para o ISP? 🎯
 * Posso detalhar melhor os valores de faturamento? 💰
 """
             return data, initial_response
