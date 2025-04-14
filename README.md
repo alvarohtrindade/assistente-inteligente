@@ -1,5 +1,3 @@
-# Assistente Inteligente
-
 Desenvolvi um assistente inteligente interativo utilizando Python, Docker e n8n, capaz de interpretar comandos em linguagem natural e convertê-los em consultas SQL para análise de dados. A aplicação permite que usuários interajam com bases de dados relacionais sem necessidade de conhecimento técnico em SQL, promovendo acessibilidade e eficiência na exploração de dados.
 
 ## Funcionalidades
@@ -11,7 +9,7 @@ Desenvolvi um assistente inteligente interativo utilizando Python, Docker e n8n,
 
 ## Acesso a demo via Streamlit Cloud
 
-👉 [Acessar Aplicação](https://assistente-inteligente-szketocseslt3wwxnrs9uv.streamlit.app/)
+[Acessar Aplicação](https://assistente-inteligente-szketocseslt3wwxnrs9uv.streamlit.app/)
 
 ## Tecnologias Utilizadas
 
